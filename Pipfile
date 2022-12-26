@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 opencv-python = "*"
 pillow = "*"
+rich = "*"
+imutils = "*"
+pypiwin32 = "*"
 
 [dev-packages]
 
